@@ -31,6 +31,16 @@ Plus olympiad-level knowledge (knowledge, not medals) across: math, physics, che
 6. **MD in neuropsychiatry** — for wetware and PPDS neuropsychiatric research ONLY, not clinical diagnosis. Sequenced late; PPDS research starts earlier via PhD-stage clinician collaborations.
 7. **Integrated unified AGI**, possibly utilizing wetware.
 
+## ML/AI Track — Three Parallel Lanes (added Jul 2026)
+
+*The components were never the problem; the sequencing was. Old plan ran AUC → all of Stanford → projects → OMSCS → research mentor as a strict chain, putting the single highest-leverage ingredient (apprenticeship) dead last. Fix: run three lanes concurrently. Same parts, no more waiting.*
+
+- **Lane A — Foundations (ONE pass, not three).** AUC ML/AI courses as the spine + *targeted* Stanford courses to fill gaps (CS229 theory, CS231n vision, CS224n NLP, CS234 RL, CS330 meta) — not "all of it." Georgia Tech OMSCS folds into this lane as the credential + structure, started when it fits, not as a separate era. Learn the rest **on demand, pulled by projects** — the field is too big to "finish."
+- **Lane B — Build in public, from month one.** 1–2 Kaggle competitions + 1–2 real projects + **one paper reimplemented from scratch**, all on GitHub. This is where most real skill comes from, and it is the ticket into Lane C.
+- **Lane C — Apprenticeship, starting THIS year (not after everything else).** The mentors are available now. Research feedback is not the reward for finishing coursework — it is the accelerant that makes the coursework land. Open the loop small: "I reimplemented X, here's what confused me, 30 min?" Let it grow into the remote research role while A and B keep running.
+
+**Rule: never gate the best part behind the rest. Lanes A, B, C advance in parallel, judged by the first shipped project + first mentor conversation — not by a finished syllabus.**
+
 ## Guardrails (accepted)
 
 - At every cycle rotation, the map may be revised **without it counting as failure**. The plan is a compass, not a cage.
